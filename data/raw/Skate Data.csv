@@ -1,0 +1,1001 @@
+age,gender,experience_level,practice_hours_per_week,favorite_trick,confidence_level,skateboard_type,learning_method,previous_injuries,motivation_level
+53,Female,beginner,4,nollie tre flip,1,mini ramp,online tutorials,false,6
+48,Female,advanced,5,nollie tre flip,7,mini ramp,self-taught,false,1
+59,Female,intermediate,18,ollie,1,freestyle,self-taught,false,2
+55,Female,intermediate,14,kickflip,9,freestyle,self-taught,false,9
+28,Female,intermediate,16,fakie bigspin,9,freestyle,self-taught,true,7
+53,Female,advanced,2,switch frontside 360,4,mini ramp,coach,false,10
+45,Bigender,advanced,10,frontside boardslide,6,freestyle,self-taught,true,7
+58,Female,advanced,3,backside 180,3,street,coach,true,7
+39,Male,intermediate,10,hardflip,7,vert,self-taught,true,10
+60,Male,beginner,15,backside 180,1,mini ramp,coach,false,1
+51,Male,beginner,5,kickflip,4,vert,online tutorials,false,6
+49,Genderfluid,intermediate,4,kickflip,8,mini ramp,online tutorials,true,6
+36,Female,advanced,17,fakie bigspin,8,vert,online tutorials,true,9
+14,Male,beginner,8,fakie bigspin,7,freestyle,self-taught,true,1
+38,Male,beginner,16,fakie bigspin,4,vert,self-taught,true,9
+59,Male,intermediate,8,backside 180,9,park,self-taught,true,9
+40,Female,beginner,18,frontside boardslide,6,vert,coach,false,3
+35,Female,advanced,1,backside 180,10,street,self-taught,false,8
+18,Male,advanced,13,switch frontside 360,3,street,online tutorials,true,4
+41,Male,beginner,9,hardflip,2,park,self-taught,false,9
+25,Male,beginner,0,frontside boardslide,3,park,coach,true,1
+54,Male,advanced,5,backside 180,6,vert,self-taught,true,8
+20,Female,beginner,18,heelflip,8,vert,coach,true,6
+39,Female,beginner,4,backside 180,5,vert,online tutorials,false,2
+55,Female,intermediate,11,switch frontside 360,6,park,coach,false,6
+50,Male,advanced,12,kickflip,7,vert,self-taught,false,1
+42,Female,beginner,7,nollie tre flip,4,street,online tutorials,true,1
+53,Female,intermediate,3,switch frontside 360,6,park,online tutorials,false,10
+19,Female,intermediate,18,backside 180,3,park,self-taught,false,9
+53,Female,beginner,0,frontside boardslide,3,street,online tutorials,false,3
+40,Female,beginner,8,fakie bigspin,8,vert,online tutorials,false,2
+58,Female,intermediate,14,frontside boardslide,9,mini ramp,coach,false,10
+56,Female,beginner,4,nollie tre flip,6,freestyle,coach,false,3
+12,Female,advanced,10,backside 180,6,park,self-taught,false,1
+39,Agender,intermediate,3,hardflip,2,mini ramp,self-taught,false,1
+16,Male,beginner,0,fakie bigspin,3,vert,self-taught,false,9
+40,Male,beginner,6,ollie,5,park,online tutorials,true,8
+55,Female,beginner,10,kickflip,5,mini ramp,coach,false,5
+34,Genderfluid,advanced,15,fakie bigspin,9,mini ramp,coach,true,4
+47,Male,advanced,13,fakie bigspin,4,street,self-taught,true,5
+10,Female,advanced,8,heelflip,9,mini ramp,online tutorials,true,3
+26,Male,beginner,12,frontside boardslide,4,park,self-taught,false,1
+22,Agender,advanced,11,nollie tre flip,2,vert,coach,true,1
+51,Female,advanced,14,switch frontside 360,6,mini ramp,online tutorials,false,6
+53,Non-binary,intermediate,18,frontside boardslide,1,freestyle,online tutorials,true,5
+17,Female,intermediate,13,switch frontside 360,8,street,coach,false,4
+52,Male,beginner,9,nollie tre flip,4,mini ramp,self-taught,true,5
+23,Agender,advanced,2,fakie bigspin,6,street,online tutorials,true,8
+20,Female,beginner,9,heelflip,3,vert,coach,true,1
+36,Female,advanced,10,heelflip,2,freestyle,self-taught,false,6
+59,Female,intermediate,19,frontside boardslide,8,mini ramp,coach,true,8
+42,Male,advanced,17,heelflip,8,freestyle,self-taught,true,10
+54,Female,beginner,4,backside 180,10,mini ramp,coach,true,6
+12,Female,advanced,12,switch frontside 360,6,freestyle,coach,true,4
+27,Male,advanced,4,nollie tre flip,1,vert,coach,true,1
+22,Male,beginner,6,pop shove-it,3,vert,self-taught,true,5
+57,Male,beginner,0,switch frontside 360,3,mini ramp,self-taught,false,6
+20,Male,beginner,12,frontside boardslide,4,freestyle,self-taught,true,5
+16,Female,intermediate,19,nollie tre flip,6,vert,coach,true,9
+45,Male,beginner,11,hardflip,5,freestyle,online tutorials,false,6
+56,Male,intermediate,18,pop shove-it,8,park,self-taught,false,8
+18,Male,beginner,12,heelflip,7,vert,coach,false,2
+23,Male,advanced,0,backside 180,2,vert,online tutorials,false,6
+28,Male,intermediate,10,switch frontside 360,7,street,self-taught,true,8
+35,Female,intermediate,4,heelflip,7,freestyle,coach,true,8
+19,Female,beginner,16,switch frontside 360,4,park,coach,true,2
+28,Bigender,advanced,20,heelflip,10,freestyle,online tutorials,false,2
+60,Male,advanced,19,fakie bigspin,4,park,online tutorials,false,5
+51,Female,intermediate,4,nollie tre flip,9,freestyle,coach,true,9
+34,Male,advanced,2,fakie bigspin,2,freestyle,coach,false,9
+24,Female,beginner,17,pop shove-it,2,vert,self-taught,true,3
+57,Female,beginner,19,hardflip,1,vert,online tutorials,false,4
+40,Male,advanced,6,nollie tre flip,10,mini ramp,online tutorials,true,7
+24,Male,advanced,4,ollie,8,mini ramp,online tutorials,true,5
+32,Male,advanced,16,fakie bigspin,4,park,online tutorials,true,7
+17,Male,beginner,1,kickflip,4,freestyle,self-taught,true,10
+10,Male,intermediate,19,pop shove-it,5,mini ramp,online tutorials,false,4
+28,Male,beginner,13,hardflip,5,street,coach,true,10
+27,Female,beginner,1,nollie tre flip,6,park,self-taught,true,10
+55,Male,intermediate,18,kickflip,4,street,self-taught,true,10
+36,Genderqueer,intermediate,11,ollie,1,street,online tutorials,false,7
+14,Male,advanced,10,kickflip,7,park,coach,false,8
+52,Male,intermediate,4,backside 180,3,street,online tutorials,true,9
+16,Female,beginner,10,hardflip,7,mini ramp,online tutorials,true,3
+41,Female,advanced,15,fakie bigspin,4,vert,self-taught,false,3
+31,Male,intermediate,3,fakie bigspin,6,vert,coach,false,2
+37,Male,beginner,4,ollie,10,freestyle,self-taught,false,4
+31,Male,intermediate,13,pop shove-it,1,park,online tutorials,true,1
+28,Female,beginner,14,kickflip,8,mini ramp,online tutorials,false,7
+42,Female,beginner,19,frontside boardslide,7,street,online tutorials,false,10
+60,Female,beginner,13,pop shove-it,2,park,online tutorials,false,1
+55,Agender,advanced,10,ollie,3,vert,online tutorials,true,7
+41,Agender,advanced,11,nollie tre flip,3,vert,self-taught,true,6
+19,Male,advanced,19,backside 180,7,vert,online tutorials,true,9
+41,Female,advanced,3,heelflip,2,mini ramp,coach,false,7
+25,Female,advanced,11,heelflip,5,mini ramp,coach,false,5
+58,Male,beginner,11,frontside boardslide,8,freestyle,online tutorials,true,3
+14,Male,advanced,10,fakie bigspin,1,street,coach,true,2
+21,Agender,advanced,19,nollie tre flip,1,freestyle,online tutorials,true,2
+15,Genderfluid,advanced,3,ollie,1,mini ramp,online tutorials,false,3
+53,Male,beginner,4,heelflip,3,freestyle,online tutorials,false,5
+18,Male,intermediate,0,nollie tre flip,5,street,coach,true,2
+25,Male,advanced,4,fakie bigspin,3,mini ramp,online tutorials,true,8
+13,Female,intermediate,19,ollie,9,street,self-taught,false,8
+56,Female,beginner,16,nollie tre flip,10,vert,self-taught,true,10
+40,Male,intermediate,15,backside 180,9,street,online tutorials,true,7
+21,Female,intermediate,11,nollie tre flip,6,vert,self-taught,false,10
+30,Male,advanced,17,frontside boardslide,7,park,coach,true,5
+26,Male,intermediate,15,frontside boardslide,8,vert,self-taught,false,1
+47,Male,intermediate,3,kickflip,3,vert,online tutorials,true,4
+41,Male,intermediate,1,hardflip,4,vert,coach,true,1
+54,Male,advanced,6,backside 180,3,mini ramp,coach,true,7
+44,Female,beginner,11,pop shove-it,8,freestyle,coach,true,6
+11,Male,intermediate,2,backside 180,10,freestyle,coach,false,9
+32,Female,advanced,0,pop shove-it,10,mini ramp,coach,true,2
+51,Male,beginner,3,kickflip,5,park,online tutorials,false,6
+54,Female,advanced,6,frontside boardslide,4,street,coach,true,6
+57,Female,intermediate,3,ollie,1,vert,coach,false,1
+49,Male,advanced,12,fakie bigspin,8,mini ramp,online tutorials,true,6
+54,Male,intermediate,17,heelflip,10,mini ramp,coach,true,8
+36,Male,advanced,9,ollie,10,freestyle,coach,false,3
+23,Female,advanced,20,backside 180,8,mini ramp,self-taught,false,10
+53,Female,advanced,19,nollie tre flip,2,street,online tutorials,false,7
+18,Male,intermediate,13,kickflip,5,vert,self-taught,true,2
+54,Male,advanced,10,nollie tre flip,8,mini ramp,self-taught,false,4
+23,Male,intermediate,11,backside 180,2,mini ramp,self-taught,false,1
+51,Male,beginner,1,pop shove-it,8,vert,self-taught,false,3
+35,Female,intermediate,16,heelflip,3,street,self-taught,false,3
+53,Female,beginner,3,backside 180,8,mini ramp,online tutorials,false,5
+31,Male,advanced,10,frontside boardslide,10,freestyle,online tutorials,true,6
+40,Male,advanced,20,backside 180,3,vert,online tutorials,false,7
+11,Male,advanced,11,pop shove-it,1,street,coach,true,5
+60,Male,intermediate,3,fakie bigspin,6,park,online tutorials,false,2
+58,Female,advanced,4,heelflip,7,mini ramp,self-taught,true,4
+52,Female,advanced,19,frontside boardslide,8,street,online tutorials,true,3
+10,Female,advanced,0,fakie bigspin,1,mini ramp,online tutorials,true,8
+56,Female,beginner,7,ollie,10,vert,online tutorials,true,1
+30,Male,beginner,16,ollie,6,park,coach,true,7
+11,Genderqueer,advanced,8,ollie,8,freestyle,self-taught,false,8
+18,Genderqueer,intermediate,3,backside 180,9,mini ramp,coach,false,3
+35,Female,beginner,20,fakie bigspin,6,mini ramp,coach,false,7
+22,Male,beginner,15,switch frontside 360,8,street,self-taught,true,1
+18,Male,intermediate,19,hardflip,10,vert,self-taught,false,10
+16,Female,intermediate,11,heelflip,6,park,self-taught,true,1
+15,Male,beginner,13,backside 180,1,vert,self-taught,false,6
+44,Female,intermediate,16,nollie tre flip,3,park,online tutorials,false,9
+19,Female,beginner,18,nollie tre flip,7,freestyle,coach,false,5
+33,Male,advanced,6,ollie,9,street,self-taught,false,9
+52,Female,intermediate,11,ollie,8,freestyle,coach,false,8
+49,Female,intermediate,20,backside 180,5,vert,coach,true,1
+20,Male,advanced,17,kickflip,5,mini ramp,online tutorials,false,7
+50,Female,beginner,19,pop shove-it,8,mini ramp,self-taught,false,2
+40,Male,beginner,8,frontside boardslide,2,mini ramp,self-taught,false,6
+44,Female,intermediate,1,hardflip,6,mini ramp,self-taught,true,7
+40,Male,beginner,8,switch frontside 360,10,park,self-taught,false,8
+12,Female,beginner,10,heelflip,9,park,coach,false,1
+45,Female,advanced,12,switch frontside 360,9,freestyle,coach,false,4
+27,Female,advanced,1,hardflip,7,vert,self-taught,true,5
+45,Female,advanced,11,ollie,5,vert,online tutorials,true,6
+14,Bigender,beginner,19,fakie bigspin,6,park,self-taught,false,1
+34,Male,intermediate,18,pop shove-it,7,park,coach,false,10
+58,Bigender,intermediate,12,ollie,1,street,self-taught,false,10
+27,Female,beginner,1,kickflip,3,freestyle,coach,false,6
+24,Female,beginner,0,heelflip,2,street,coach,true,5
+47,Male,beginner,6,backside 180,9,freestyle,online tutorials,true,1
+24,Male,intermediate,18,fakie bigspin,1,mini ramp,online tutorials,true,1
+48,Female,intermediate,0,switch frontside 360,8,freestyle,coach,false,9
+50,Male,advanced,0,kickflip,5,street,online tutorials,false,6
+15,Genderqueer,beginner,14,backside 180,7,freestyle,self-taught,true,6
+59,Female,intermediate,15,switch frontside 360,7,park,coach,true,8
+11,Female,intermediate,7,kickflip,6,street,self-taught,true,1
+56,Female,beginner,8,hardflip,4,park,online tutorials,false,9
+60,Female,advanced,2,ollie,3,street,self-taught,true,1
+40,Female,beginner,17,backside 180,7,mini ramp,online tutorials,true,4
+25,Female,beginner,15,fakie bigspin,6,freestyle,self-taught,false,8
+35,Male,advanced,11,hardflip,1,vert,online tutorials,true,1
+16,Female,advanced,6,frontside boardslide,8,park,coach,false,3
+34,Male,advanced,5,hardflip,5,park,coach,false,1
+13,Female,intermediate,12,hardflip,3,street,self-taught,true,7
+60,Genderfluid,beginner,0,nollie tre flip,6,freestyle,online tutorials,true,1
+23,Female,intermediate,16,nollie tre flip,10,freestyle,online tutorials,false,10
+33,Female,beginner,13,heelflip,2,park,online tutorials,false,3
+30,Genderqueer,beginner,12,fakie bigspin,3,vert,coach,false,1
+22,Male,advanced,20,kickflip,2,street,online tutorials,true,9
+59,Male,beginner,17,ollie,1,freestyle,self-taught,true,2
+12,Male,intermediate,0,backside 180,7,street,online tutorials,true,3
+30,Male,advanced,10,pop shove-it,5,vert,coach,false,10
+50,Male,intermediate,5,frontside boardslide,6,mini ramp,self-taught,true,4
+24,Non-binary,beginner,6,heelflip,3,mini ramp,self-taught,true,5
+27,Female,beginner,15,backside 180,4,vert,coach,true,4
+39,Female,intermediate,13,fakie bigspin,2,mini ramp,self-taught,false,7
+18,Female,advanced,5,ollie,1,vert,online tutorials,true,6
+37,Female,beginner,8,nollie tre flip,10,park,coach,false,8
+55,Male,beginner,8,fakie bigspin,7,mini ramp,online tutorials,true,5
+33,Male,advanced,9,kickflip,6,freestyle,online tutorials,false,1
+42,Female,advanced,0,kickflip,1,freestyle,coach,true,7
+45,Male,intermediate,7,nollie tre flip,10,freestyle,online tutorials,false,7
+39,Male,intermediate,11,switch frontside 360,7,street,self-taught,false,2
+42,Female,beginner,15,hardflip,7,street,online tutorials,true,1
+49,Female,intermediate,9,pop shove-it,5,street,coach,true,7
+49,Male,intermediate,1,ollie,8,mini ramp,self-taught,false,4
+32,Female,beginner,3,heelflip,8,vert,self-taught,true,1
+30,Male,beginner,0,fakie bigspin,1,street,coach,true,7
+55,Male,intermediate,1,pop shove-it,4,vert,coach,true,5
+53,Female,advanced,20,frontside boardslide,4,mini ramp,online tutorials,false,4
+44,Male,beginner,11,pop shove-it,1,freestyle,coach,true,2
+35,Female,beginner,4,hardflip,8,freestyle,coach,false,7
+40,Male,beginner,0,pop shove-it,9,vert,coach,false,5
+40,Female,beginner,14,switch frontside 360,2,street,online tutorials,false,2
+33,Male,advanced,15,switch frontside 360,5,street,self-taught,true,2
+12,Female,intermediate,17,frontside boardslide,6,mini ramp,coach,true,5
+47,Female,beginner,4,heelflip,8,street,online tutorials,false,4
+44,Female,intermediate,19,kickflip,2,park,online tutorials,true,3
+53,Male,intermediate,13,switch frontside 360,2,mini ramp,coach,false,9
+53,Male,beginner,11,backside 180,6,park,online tutorials,false,10
+58,Male,advanced,10,backside 180,5,mini ramp,online tutorials,true,1
+47,Male,beginner,18,fakie bigspin,3,vert,online tutorials,true,5
+13,Female,beginner,10,pop shove-it,9,freestyle,coach,true,2
+59,Female,beginner,1,hardflip,7,mini ramp,self-taught,true,8
+15,Female,beginner,13,fakie bigspin,3,mini ramp,online tutorials,true,4
+23,Female,beginner,6,heelflip,9,vert,online tutorials,false,3
+32,Male,beginner,14,pop shove-it,5,park,self-taught,false,7
+44,Male,intermediate,18,switch frontside 360,5,park,self-taught,true,2
+53,Female,intermediate,14,pop shove-it,3,park,coach,false,5
+56,Male,beginner,8,nollie tre flip,2,street,online tutorials,false,3
+27,Male,intermediate,13,ollie,8,mini ramp,self-taught,true,5
+22,Male,beginner,20,frontside boardslide,9,freestyle,self-taught,false,10
+36,Male,advanced,7,ollie,8,vert,coach,false,10
+40,Female,beginner,9,switch frontside 360,5,mini ramp,coach,true,9
+29,Female,advanced,12,backside 180,10,park,self-taught,true,1
+37,Female,advanced,16,kickflip,1,street,coach,false,7
+39,Female,advanced,19,switch frontside 360,5,freestyle,online tutorials,false,5
+46,Genderfluid,advanced,19,pop shove-it,4,street,self-taught,true,6
+23,Female,intermediate,9,frontside boardslide,4,mini ramp,online tutorials,false,7
+51,Male,beginner,6,hardflip,10,freestyle,self-taught,true,10
+47,Male,intermediate,3,frontside boardslide,2,freestyle,coach,false,9
+14,Male,beginner,13,kickflip,4,mini ramp,self-taught,true,5
+49,Female,intermediate,7,ollie,1,freestyle,coach,false,8
+57,Male,advanced,20,nollie tre flip,5,mini ramp,online tutorials,false,10
+56,Male,intermediate,3,switch frontside 360,10,vert,online tutorials,false,4
+34,Female,intermediate,8,frontside boardslide,1,park,online tutorials,false,1
+40,Male,advanced,7,nollie tre flip,5,freestyle,self-taught,false,3
+47,Male,beginner,18,heelflip,10,street,online tutorials,true,4
+48,Female,advanced,14,kickflip,10,mini ramp,online tutorials,false,7
+19,Male,intermediate,7,fakie bigspin,9,street,online tutorials,false,9
+21,Male,advanced,14,switch frontside 360,6,street,online tutorials,false,1
+54,Female,advanced,3,switch frontside 360,1,mini ramp,online tutorials,false,6
+28,Polygender,beginner,6,backside 180,10,mini ramp,online tutorials,true,6
+46,Male,beginner,4,nollie tre flip,5,street,online tutorials,false,10
+14,Male,intermediate,8,pop shove-it,8,freestyle,coach,false,9
+11,Female,intermediate,7,hardflip,7,street,self-taught,true,4
+36,Male,advanced,20,hardflip,5,street,online tutorials,false,3
+48,Male,advanced,15,kickflip,6,street,online tutorials,false,6
+58,Female,advanced,20,frontside boardslide,4,freestyle,self-taught,false,1
+52,Male,beginner,12,heelflip,2,street,online tutorials,false,3
+31,Polygender,advanced,13,backside 180,7,vert,coach,false,3
+40,Female,intermediate,5,ollie,8,mini ramp,online tutorials,true,2
+23,Female,beginner,18,switch frontside 360,3,park,self-taught,false,5
+21,Female,advanced,9,heelflip,5,park,self-taught,true,6
+17,Female,advanced,14,kickflip,10,freestyle,online tutorials,false,2
+42,Male,beginner,15,pop shove-it,10,vert,self-taught,false,2
+52,Male,advanced,11,frontside boardslide,3,freestyle,online tutorials,false,3
+13,Male,beginner,1,frontside boardslide,10,street,online tutorials,true,1
+37,Male,advanced,16,backside 180,9,street,self-taught,true,1
+47,Male,intermediate,6,hardflip,8,mini ramp,coach,false,3
+60,Male,advanced,1,pop shove-it,5,park,coach,true,7
+48,Female,advanced,13,ollie,8,vert,online tutorials,true,3
+50,Male,advanced,13,pop shove-it,2,park,online tutorials,false,7
+18,Polygender,beginner,17,kickflip,6,street,coach,false,3
+11,Female,advanced,2,kickflip,10,mini ramp,coach,true,9
+41,Female,beginner,17,nollie tre flip,7,street,online tutorials,false,9
+30,Female,advanced,12,nollie tre flip,3,mini ramp,coach,true,5
+25,Female,beginner,13,nollie tre flip,5,mini ramp,online tutorials,false,1
+47,Female,advanced,11,heelflip,5,mini ramp,online tutorials,false,4
+27,Female,intermediate,14,kickflip,5,vert,self-taught,false,3
+55,Male,intermediate,13,frontside boardslide,2,park,online tutorials,true,8
+42,Female,beginner,7,ollie,8,freestyle,self-taught,true,3
+49,Female,intermediate,6,hardflip,3,freestyle,coach,false,8
+30,Male,intermediate,15,nollie tre flip,1,street,coach,true,3
+15,Female,intermediate,2,frontside boardslide,9,freestyle,coach,false,2
+34,Female,beginner,20,kickflip,10,freestyle,coach,true,10
+40,Male,advanced,18,heelflip,7,mini ramp,self-taught,true,9
+10,Male,beginner,13,kickflip,9,freestyle,online tutorials,true,2
+27,Genderqueer,intermediate,2,fakie bigspin,5,street,online tutorials,true,2
+39,Genderqueer,advanced,9,nollie tre flip,1,freestyle,coach,false,6
+41,Female,intermediate,14,kickflip,8,vert,coach,false,5
+58,Female,intermediate,20,fakie bigspin,8,vert,coach,false,3
+53,Female,intermediate,5,ollie,2,mini ramp,online tutorials,false,7
+48,Female,advanced,2,pop shove-it,7,street,coach,true,5
+35,Male,advanced,12,heelflip,1,mini ramp,online tutorials,true,2
+28,Female,intermediate,13,backside 180,3,mini ramp,online tutorials,false,9
+57,Male,beginner,9,backside 180,10,park,online tutorials,false,8
+36,Female,intermediate,3,nollie tre flip,9,vert,online tutorials,true,8
+57,Female,beginner,1,switch frontside 360,10,park,online tutorials,true,10
+55,Male,advanced,16,nollie tre flip,3,street,self-taught,true,2
+16,Male,intermediate,1,nollie tre flip,3,mini ramp,coach,true,9
+60,Male,beginner,6,heelflip,4,freestyle,self-taught,true,1
+18,Male,intermediate,14,nollie tre flip,10,street,online tutorials,true,9
+20,Male,intermediate,13,nollie tre flip,10,vert,self-taught,false,6
+59,Non-binary,beginner,3,frontside boardslide,10,park,online tutorials,true,9
+24,Female,intermediate,20,ollie,5,mini ramp,self-taught,true,9
+17,Male,intermediate,9,kickflip,4,vert,self-taught,false,2
+21,Male,intermediate,7,ollie,4,park,self-taught,false,3
+55,Female,advanced,0,frontside boardslide,7,freestyle,online tutorials,true,7
+40,Male,intermediate,13,ollie,10,freestyle,self-taught,false,7
+15,Male,intermediate,20,fakie bigspin,7,park,online tutorials,true,4
+26,Male,intermediate,13,backside 180,10,park,self-taught,false,4
+15,Male,intermediate,8,heelflip,7,mini ramp,self-taught,true,9
+19,Male,beginner,13,nollie tre flip,6,park,online tutorials,false,3
+49,Female,intermediate,14,hardflip,10,mini ramp,online tutorials,false,7
+53,Female,intermediate,17,pop shove-it,7,freestyle,self-taught,true,9
+27,Female,beginner,2,switch frontside 360,1,street,online tutorials,false,10
+27,Male,intermediate,2,heelflip,3,vert,coach,false,3
+39,Female,advanced,8,frontside boardslide,3,park,coach,true,4
+51,Male,advanced,18,frontside boardslide,3,vert,online tutorials,false,6
+38,Male,advanced,14,nollie tre flip,8,park,coach,false,1
+14,Male,advanced,3,kickflip,6,freestyle,coach,true,3
+32,Female,advanced,15,nollie tre flip,4,park,coach,false,7
+26,Male,beginner,3,heelflip,1,street,self-taught,false,6
+15,Female,beginner,11,nollie tre flip,3,freestyle,coach,true,2
+59,Female,advanced,11,frontside boardslide,8,freestyle,coach,false,3
+22,Male,advanced,10,frontside boardslide,7,freestyle,self-taught,true,6
+12,Female,advanced,1,backside 180,7,park,self-taught,true,5
+29,Female,advanced,16,hardflip,8,street,online tutorials,false,5
+41,Female,intermediate,3,switch frontside 360,8,freestyle,self-taught,true,10
+57,Female,advanced,6,heelflip,10,mini ramp,self-taught,true,9
+14,Female,beginner,19,hardflip,10,park,self-taught,false,2
+16,Male,beginner,12,kickflip,1,street,self-taught,false,10
+42,Female,intermediate,9,frontside boardslide,8,street,coach,true,10
+52,Female,intermediate,5,switch frontside 360,4,street,online tutorials,false,2
+54,Male,intermediate,16,hardflip,10,street,online tutorials,false,10
+12,Non-binary,advanced,16,pop shove-it,8,street,online tutorials,false,6
+17,Male,advanced,9,fakie bigspin,2,park,online tutorials,true,10
+27,Female,intermediate,13,backside 180,7,street,self-taught,true,1
+11,Male,advanced,18,pop shove-it,4,park,self-taught,true,8
+44,Male,intermediate,10,heelflip,8,street,coach,true,5
+16,Male,intermediate,7,backside 180,1,mini ramp,online tutorials,true,1
+41,Female,advanced,2,fakie bigspin,3,street,online tutorials,true,3
+23,Female,beginner,14,pop shove-it,7,vert,coach,true,5
+46,Male,beginner,2,nollie tre flip,9,street,self-taught,true,4
+38,Male,beginner,16,backside 180,3,street,coach,false,4
+17,Male,intermediate,3,kickflip,9,street,self-taught,false,10
+32,Female,advanced,12,frontside boardslide,1,street,online tutorials,true,1
+42,Male,advanced,0,pop shove-it,7,street,online tutorials,true,10
+41,Female,advanced,6,kickflip,10,street,coach,false,5
+37,Male,beginner,16,backside 180,10,park,self-taught,false,4
+14,Female,advanced,8,ollie,8,mini ramp,self-taught,false,6
+34,Female,advanced,1,switch frontside 360,3,street,online tutorials,false,1
+56,Male,advanced,12,pop shove-it,8,street,self-taught,true,2
+50,Male,advanced,1,hardflip,3,park,online tutorials,false,9
+56,Male,intermediate,14,ollie,10,vert,online tutorials,true,7
+18,Female,beginner,15,fakie bigspin,5,park,online tutorials,false,4
+49,Female,beginner,19,fakie bigspin,5,street,self-taught,false,2
+39,Female,advanced,12,kickflip,10,mini ramp,coach,false,2
+50,Female,beginner,15,heelflip,2,vert,coach,true,9
+15,Male,intermediate,13,switch frontside 360,3,street,coach,true,8
+15,Female,beginner,14,heelflip,2,mini ramp,self-taught,false,7
+25,Female,advanced,17,ollie,1,street,coach,false,7
+34,Female,intermediate,10,backside 180,7,park,online tutorials,false,10
+19,Male,beginner,5,fakie bigspin,7,street,coach,false,3
+32,Female,intermediate,19,pop shove-it,6,park,online tutorials,false,4
+36,Male,advanced,10,kickflip,8,vert,online tutorials,true,10
+25,Female,beginner,9,heelflip,6,freestyle,coach,true,5
+19,Polygender,beginner,19,kickflip,3,freestyle,self-taught,false,2
+19,Male,beginner,5,frontside boardslide,6,street,self-taught,true,2
+24,Male,beginner,7,heelflip,4,park,coach,true,7
+38,Male,advanced,3,hardflip,5,park,coach,true,6
+46,Female,beginner,3,fakie bigspin,2,street,online tutorials,true,6
+60,Male,advanced,11,backside 180,3,mini ramp,self-taught,false,10
+27,Male,intermediate,6,hardflip,3,street,online tutorials,true,7
+33,Female,intermediate,5,pop shove-it,5,vert,self-taught,true,9
+38,Agender,beginner,12,switch frontside 360,6,vert,online tutorials,true,9
+47,Female,advanced,16,ollie,6,park,self-taught,false,7
+51,Female,beginner,10,fakie bigspin,2,park,online tutorials,false,3
+13,Female,beginner,7,fakie bigspin,5,park,self-taught,true,1
+38,Female,intermediate,20,frontside boardslide,4,vert,online tutorials,true,1
+11,Female,beginner,4,ollie,5,vert,online tutorials,true,6
+43,Female,intermediate,14,pop shove-it,10,park,self-taught,true,9
+19,Female,advanced,19,ollie,8,street,coach,true,9
+22,Male,advanced,8,hardflip,3,freestyle,online tutorials,true,3
+40,Bigender,advanced,8,hardflip,5,street,self-taught,true,4
+47,Female,advanced,4,ollie,3,mini ramp,coach,true,6
+31,Male,intermediate,12,hardflip,3,park,self-taught,true,4
+31,Female,advanced,5,hardflip,10,street,coach,false,8
+10,Genderfluid,intermediate,0,hardflip,10,mini ramp,self-taught,true,1
+46,Male,intermediate,8,fakie bigspin,10,street,online tutorials,true,7
+19,Female,intermediate,19,kickflip,7,vert,coach,true,5
+60,Female,intermediate,15,frontside boardslide,10,freestyle,coach,true,6
+35,Male,advanced,8,nollie tre flip,5,freestyle,online tutorials,false,10
+58,Male,advanced,9,kickflip,8,street,coach,false,7
+13,Bigender,advanced,16,frontside boardslide,5,park,coach,true,7
+28,Male,intermediate,5,pop shove-it,7,mini ramp,self-taught,true,4
+32,Female,advanced,11,hardflip,1,mini ramp,online tutorials,false,3
+45,Male,beginner,20,ollie,4,vert,self-taught,true,10
+32,Male,advanced,0,kickflip,4,mini ramp,self-taught,false,6
+25,Male,beginner,9,nollie tre flip,6,freestyle,online tutorials,true,10
+49,Female,beginner,1,pop shove-it,6,street,online tutorials,false,8
+36,Male,intermediate,9,heelflip,3,freestyle,coach,false,3
+60,Male,intermediate,3,fakie bigspin,7,vert,self-taught,false,6
+32,Female,advanced,7,heelflip,9,freestyle,self-taught,true,10
+13,Male,intermediate,10,pop shove-it,4,park,coach,false,8
+25,Female,intermediate,15,kickflip,7,street,online tutorials,false,7
+37,Female,intermediate,17,kickflip,6,freestyle,self-taught,false,1
+16,Female,beginner,0,hardflip,10,park,self-taught,false,6
+29,Female,beginner,11,nollie tre flip,3,park,coach,true,8
+56,Male,beginner,14,heelflip,4,freestyle,coach,true,9
+44,Male,intermediate,9,fakie bigspin,10,street,online tutorials,false,6
+12,Male,beginner,5,pop shove-it,2,street,online tutorials,true,4
+28,Male,beginner,16,pop shove-it,7,street,online tutorials,true,6
+52,Male,advanced,5,pop shove-it,8,park,coach,false,6
+42,Male,beginner,19,nollie tre flip,1,vert,coach,true,4
+41,Female,intermediate,12,switch frontside 360,8,mini ramp,self-taught,false,10
+42,Female,beginner,6,frontside boardslide,1,freestyle,online tutorials,false,5
+26,Female,intermediate,4,frontside boardslide,9,vert,online tutorials,false,2
+21,Female,advanced,5,backside 180,1,mini ramp,coach,false,10
+60,Female,beginner,6,kickflip,7,street,coach,false,10
+10,Male,beginner,20,ollie,8,street,coach,false,2
+57,Male,intermediate,7,heelflip,5,street,coach,false,9
+47,Male,advanced,19,heelflip,10,vert,self-taught,false,3
+11,Female,beginner,1,nollie tre flip,5,street,online tutorials,true,6
+33,Male,intermediate,18,nollie tre flip,5,freestyle,self-taught,true,9
+54,Female,beginner,1,switch frontside 360,10,freestyle,self-taught,false,7
+10,Female,advanced,17,switch frontside 360,3,mini ramp,self-taught,true,7
+29,Female,advanced,11,hardflip,9,mini ramp,online tutorials,false,7
+59,Female,beginner,12,backside 180,9,vert,online tutorials,false,3
+22,Female,advanced,5,switch frontside 360,9,freestyle,coach,false,2
+38,Male,intermediate,4,fakie bigspin,10,street,online tutorials,false,5
+25,Female,intermediate,13,switch frontside 360,8,freestyle,online tutorials,false,8
+59,Male,advanced,11,pop shove-it,8,street,coach,false,5
+22,Female,advanced,0,backside 180,2,vert,online tutorials,false,5
+29,Female,advanced,16,fakie bigspin,10,vert,online tutorials,false,9
+42,Male,beginner,6,fakie bigspin,8,street,coach,true,2
+55,Female,intermediate,10,ollie,3,street,self-taught,true,1
+53,Male,intermediate,16,switch frontside 360,6,street,self-taught,false,7
+22,Female,intermediate,16,pop shove-it,4,mini ramp,online tutorials,false,8
+32,Female,advanced,3,switch frontside 360,1,freestyle,online tutorials,false,8
+27,Female,advanced,8,hardflip,4,park,online tutorials,true,4
+39,Male,intermediate,2,nollie tre flip,4,park,coach,true,8
+41,Male,intermediate,15,kickflip,2,park,self-taught,false,2
+42,Female,beginner,12,nollie tre flip,3,street,online tutorials,false,7
+12,Male,intermediate,20,fakie bigspin,3,vert,online tutorials,true,2
+24,Male,intermediate,8,nollie tre flip,7,freestyle,coach,true,5
+21,Male,beginner,5,switch frontside 360,1,vert,coach,true,8
+46,Male,beginner,3,ollie,8,mini ramp,online tutorials,false,4
+54,Male,advanced,6,hardflip,9,mini ramp,self-taught,true,9
+44,Female,advanced,8,nollie tre flip,8,mini ramp,self-taught,false,4
+24,Female,beginner,6,fakie bigspin,7,park,self-taught,false,9
+12,Male,intermediate,15,kickflip,5,freestyle,online tutorials,true,1
+46,Female,beginner,20,kickflip,7,freestyle,self-taught,true,7
+31,Male,beginner,15,ollie,8,freestyle,coach,false,2
+29,Female,beginner,13,pop shove-it,7,mini ramp,self-taught,false,10
+26,Female,beginner,15,fakie bigspin,5,freestyle,online tutorials,false,5
+48,Male,intermediate,16,fakie bigspin,7,mini ramp,online tutorials,true,8
+15,Female,intermediate,2,hardflip,7,vert,coach,true,10
+34,Female,advanced,18,frontside boardslide,3,vert,self-taught,true,1
+33,Male,intermediate,1,pop shove-it,10,park,coach,true,5
+19,Bigender,beginner,3,fakie bigspin,1,vert,self-taught,true,2
+52,Male,beginner,16,frontside boardslide,5,park,self-taught,false,3
+40,Male,beginner,14,hardflip,9,mini ramp,self-taught,true,5
+42,Female,intermediate,2,kickflip,10,park,online tutorials,true,7
+51,Female,advanced,2,backside 180,1,mini ramp,online tutorials,true,7
+31,Female,advanced,8,pop shove-it,1,street,self-taught,false,4
+57,Male,advanced,16,fakie bigspin,3,vert,online tutorials,false,10
+43,Male,intermediate,9,heelflip,2,freestyle,self-taught,true,1
+27,Male,beginner,19,nollie tre flip,3,park,coach,false,9
+43,Female,advanced,17,hardflip,4,street,online tutorials,false,9
+54,Female,intermediate,4,hardflip,7,vert,self-taught,false,6
+35,Male,intermediate,20,hardflip,10,vert,self-taught,false,7
+59,Male,intermediate,10,fakie bigspin,1,freestyle,self-taught,false,3
+31,Male,beginner,11,backside 180,8,park,coach,true,6
+22,Non-binary,intermediate,8,hardflip,5,mini ramp,self-taught,false,8
+52,Male,beginner,14,nollie tre flip,4,street,self-taught,false,8
+21,Female,intermediate,20,ollie,3,street,online tutorials,false,3
+26,Male,beginner,3,ollie,1,vert,coach,false,8
+12,Female,intermediate,2,fakie bigspin,4,street,self-taught,true,4
+45,Female,intermediate,15,hardflip,8,vert,online tutorials,true,6
+12,Male,beginner,17,nollie tre flip,8,freestyle,coach,false,7
+22,Female,advanced,1,pop shove-it,9,freestyle,coach,true,1
+28,Female,advanced,19,switch frontside 360,5,vert,online tutorials,true,2
+58,Female,intermediate,17,fakie bigspin,10,mini ramp,online tutorials,true,9
+14,Female,beginner,11,kickflip,9,vert,self-taught,true,4
+52,Male,advanced,2,fakie bigspin,8,freestyle,coach,false,6
+50,Male,beginner,15,fakie bigspin,9,park,online tutorials,false,4
+42,Male,advanced,7,ollie,6,vert,self-taught,true,9
+14,Female,beginner,4,kickflip,6,freestyle,online tutorials,true,7
+10,Male,beginner,20,fakie bigspin,9,freestyle,coach,false,7
+25,Female,advanced,0,frontside boardslide,8,mini ramp,online tutorials,true,3
+58,Female,intermediate,2,fakie bigspin,7,mini ramp,coach,true,6
+19,Male,advanced,5,pop shove-it,3,mini ramp,coach,false,5
+60,Male,intermediate,9,hardflip,6,street,self-taught,false,10
+17,Male,intermediate,2,ollie,8,freestyle,self-taught,true,5
+57,Polygender,beginner,11,frontside boardslide,7,mini ramp,online tutorials,true,4
+41,Male,advanced,10,kickflip,1,street,self-taught,false,8
+40,Non-binary,beginner,10,heelflip,9,mini ramp,coach,true,3
+30,Male,intermediate,6,nollie tre flip,5,street,coach,false,10
+16,Female,intermediate,15,nollie tre flip,10,freestyle,coach,false,6
+45,Male,intermediate,7,heelflip,1,mini ramp,online tutorials,true,2
+58,Male,intermediate,17,kickflip,10,park,coach,true,2
+27,Male,advanced,10,frontside boardslide,8,vert,coach,true,3
+27,Male,advanced,6,fakie bigspin,3,freestyle,online tutorials,false,5
+34,Male,intermediate,0,hardflip,1,street,coach,false,10
+52,Male,intermediate,10,nollie tre flip,10,street,online tutorials,false,4
+39,Female,intermediate,17,kickflip,2,mini ramp,online tutorials,true,6
+51,Bigender,intermediate,1,frontside boardslide,1,park,self-taught,false,7
+23,Male,advanced,3,backside 180,9,street,self-taught,true,2
+25,Male,beginner,0,nollie tre flip,8,street,coach,false,10
+44,Female,beginner,0,nollie tre flip,1,street,coach,false,3
+52,Female,advanced,1,nollie tre flip,3,mini ramp,self-taught,true,2
+42,Agender,beginner,13,backside 180,3,mini ramp,online tutorials,false,4
+26,Male,intermediate,2,switch frontside 360,2,vert,self-taught,false,10
+13,Female,beginner,10,ollie,7,street,coach,false,7
+31,Female,intermediate,15,kickflip,2,vert,coach,true,3
+43,Male,intermediate,6,heelflip,10,vert,self-taught,true,4
+38,Female,beginner,6,fakie bigspin,7,street,online tutorials,true,3
+57,Female,advanced,16,nollie tre flip,3,street,coach,false,9
+52,Male,intermediate,12,heelflip,2,mini ramp,self-taught,true,3
+41,Male,beginner,9,fakie bigspin,6,mini ramp,coach,false,3
+11,Female,intermediate,4,backside 180,10,park,coach,false,2
+58,Agender,advanced,14,ollie,8,vert,online tutorials,false,1
+27,Male,intermediate,0,backside 180,7,street,coach,true,4
+46,Female,intermediate,20,hardflip,10,freestyle,self-taught,false,4
+35,Female,beginner,9,hardflip,5,mini ramp,coach,false,4
+27,Female,beginner,19,ollie,6,street,online tutorials,false,1
+13,Male,advanced,0,hardflip,7,freestyle,self-taught,false,8
+59,Male,beginner,20,kickflip,6,mini ramp,self-taught,true,1
+13,Female,beginner,18,pop shove-it,10,park,online tutorials,true,7
+34,Male,beginner,5,frontside boardslide,1,park,self-taught,true,5
+47,Female,advanced,2,hardflip,2,vert,online tutorials,true,2
+20,Female,intermediate,9,frontside boardslide,9,freestyle,online tutorials,true,1
+55,Female,intermediate,19,fakie bigspin,4,street,coach,true,6
+13,Female,advanced,11,backside 180,3,park,online tutorials,false,4
+44,Female,intermediate,10,fakie bigspin,3,freestyle,online tutorials,false,6
+50,Female,intermediate,17,nollie tre flip,4,park,coach,false,2
+55,Male,intermediate,3,backside 180,4,park,self-taught,false,9
+48,Female,intermediate,11,nollie tre flip,3,freestyle,coach,false,6
+30,Male,beginner,14,heelflip,9,mini ramp,online tutorials,true,7
+38,Female,advanced,11,pop shove-it,7,freestyle,coach,false,9
+45,Male,beginner,17,nollie tre flip,2,street,coach,false,10
+56,Female,advanced,2,frontside boardslide,6,vert,coach,false,2
+30,Female,beginner,0,pop shove-it,6,park,self-taught,true,7
+11,Male,beginner,6,fakie bigspin,8,park,self-taught,true,2
+49,Male,intermediate,3,hardflip,10,mini ramp,coach,false,2
+37,Non-binary,beginner,8,pop shove-it,9,park,self-taught,false,2
+41,Female,beginner,20,kickflip,3,park,self-taught,true,10
+16,Male,intermediate,18,nollie tre flip,3,mini ramp,self-taught,false,2
+20,Female,beginner,16,hardflip,7,mini ramp,online tutorials,true,1
+43,Female,intermediate,4,ollie,2,park,self-taught,false,5
+60,Female,beginner,5,backside 180,3,vert,online tutorials,true,3
+22,Male,beginner,1,kickflip,2,park,self-taught,true,3
+23,Female,intermediate,1,ollie,3,street,self-taught,true,10
+54,Male,advanced,4,hardflip,4,freestyle,self-taught,true,4
+11,Female,intermediate,18,hardflip,10,mini ramp,online tutorials,false,7
+37,Male,intermediate,20,nollie tre flip,8,park,self-taught,false,4
+22,Female,beginner,1,ollie,8,freestyle,self-taught,true,4
+36,Female,beginner,19,fakie bigspin,9,vert,coach,true,8
+33,Bigender,advanced,10,heelflip,1,mini ramp,coach,false,5
+26,Male,intermediate,3,backside 180,10,vert,self-taught,false,9
+57,Male,advanced,9,pop shove-it,9,mini ramp,coach,false,2
+51,Female,advanced,9,hardflip,2,park,coach,false,3
+13,Female,beginner,2,kickflip,8,mini ramp,self-taught,false,9
+14,Polygender,advanced,5,kickflip,10,vert,online tutorials,false,7
+59,Non-binary,beginner,6,fakie bigspin,8,street,coach,false,2
+16,Female,intermediate,17,ollie,1,mini ramp,self-taught,true,5
+33,Female,beginner,14,nollie tre flip,4,mini ramp,online tutorials,false,4
+45,Male,advanced,19,frontside boardslide,8,freestyle,coach,false,3
+27,Polygender,beginner,11,backside 180,8,vert,online tutorials,false,4
+54,Male,intermediate,14,fakie bigspin,5,vert,online tutorials,true,8
+46,Non-binary,intermediate,12,fakie bigspin,2,vert,coach,true,2
+42,Female,intermediate,10,frontside boardslide,7,street,self-taught,true,6
+15,Male,beginner,2,switch frontside 360,8,freestyle,online tutorials,false,6
+13,Female,advanced,8,hardflip,2,mini ramp,coach,true,10
+59,Female,intermediate,16,kickflip,2,vert,online tutorials,true,6
+39,Female,advanced,4,kickflip,1,freestyle,coach,true,2
+34,Male,beginner,12,pop shove-it,4,freestyle,self-taught,false,3
+10,Male,intermediate,16,ollie,4,vert,self-taught,true,8
+18,Female,beginner,3,heelflip,6,street,coach,false,5
+28,Male,beginner,11,hardflip,6,vert,online tutorials,true,10
+33,Male,intermediate,17,backside 180,5,park,coach,true,5
+54,Male,advanced,13,backside 180,6,freestyle,coach,true,4
+19,Female,advanced,6,hardflip,8,park,self-taught,false,6
+34,Non-binary,beginner,18,pop shove-it,7,street,online tutorials,false,8
+22,Female,intermediate,18,frontside boardslide,3,park,online tutorials,false,6
+22,Male,beginner,7,fakie bigspin,8,park,online tutorials,false,5
+23,Male,advanced,9,backside 180,6,street,coach,true,10
+52,Female,advanced,13,hardflip,5,street,self-taught,false,3
+47,Male,intermediate,15,nollie tre flip,2,street,self-taught,false,9
+44,Male,beginner,1,fakie bigspin,8,street,online tutorials,true,4
+46,Male,advanced,13,backside 180,5,vert,self-taught,true,9
+27,Female,beginner,17,hardflip,7,mini ramp,coach,false,7
+56,Male,advanced,19,kickflip,10,street,online tutorials,false,6
+55,Male,intermediate,17,nollie tre flip,10,park,online tutorials,true,6
+58,Female,beginner,11,kickflip,1,street,self-taught,false,1
+37,Non-binary,advanced,17,hardflip,1,street,coach,true,4
+16,Genderfluid,intermediate,5,nollie tre flip,3,mini ramp,online tutorials,false,9
+25,Female,intermediate,2,pop shove-it,5,mini ramp,online tutorials,true,8
+44,Male,beginner,19,kickflip,9,freestyle,online tutorials,true,7
+24,Female,beginner,18,fakie bigspin,3,park,online tutorials,true,4
+51,Male,beginner,17,heelflip,2,vert,coach,false,2
+35,Polygender,advanced,15,fakie bigspin,1,mini ramp,self-taught,true,3
+28,Male,advanced,18,nollie tre flip,10,street,coach,false,4
+25,Female,beginner,7,kickflip,1,street,coach,true,1
+13,Male,advanced,9,pop shove-it,9,mini ramp,self-taught,true,2
+59,Male,advanced,15,backside 180,3,mini ramp,online tutorials,true,6
+22,Male,beginner,3,backside 180,4,street,self-taught,true,8
+17,Male,advanced,13,ollie,10,vert,coach,false,3
+35,Female,beginner,2,pop shove-it,6,street,coach,false,9
+32,Female,intermediate,6,switch frontside 360,4,freestyle,online tutorials,true,7
+13,Female,beginner,5,backside 180,7,mini ramp,coach,true,9
+56,Male,beginner,7,heelflip,1,mini ramp,coach,true,9
+12,Female,beginner,17,nollie tre flip,8,vert,coach,false,6
+16,Male,intermediate,0,ollie,6,street,online tutorials,true,1
+10,Female,intermediate,20,fakie bigspin,8,park,self-taught,true,7
+31,Male,advanced,2,pop shove-it,6,street,coach,true,9
+27,Genderfluid,beginner,16,switch frontside 360,5,mini ramp,self-taught,true,2
+11,Female,advanced,10,backside 180,8,street,self-taught,false,1
+25,Female,advanced,8,heelflip,5,freestyle,coach,false,9
+36,Female,intermediate,4,ollie,9,park,self-taught,false,5
+19,Male,beginner,17,nollie tre flip,5,vert,coach,true,9
+27,Male,advanced,2,fakie bigspin,7,vert,coach,true,5
+40,Female,advanced,2,hardflip,10,street,self-taught,true,8
+53,Genderfluid,beginner,14,switch frontside 360,2,park,online tutorials,true,5
+46,Agender,intermediate,0,ollie,4,street,online tutorials,false,1
+16,Female,intermediate,18,kickflip,8,street,coach,false,1
+34,Agender,beginner,14,fakie bigspin,8,mini ramp,coach,true,10
+23,Female,advanced,20,nollie tre flip,8,street,coach,true,2
+35,Female,intermediate,17,nollie tre flip,5,street,self-taught,false,7
+44,Male,intermediate,3,hardflip,9,mini ramp,online tutorials,true,4
+39,Genderqueer,advanced,11,switch frontside 360,1,vert,online tutorials,true,2
+13,Female,intermediate,11,frontside boardslide,1,mini ramp,online tutorials,false,4
+36,Male,intermediate,10,switch frontside 360,4,park,self-taught,false,9
+23,Female,beginner,17,pop shove-it,7,park,self-taught,false,8
+60,Male,beginner,1,heelflip,6,mini ramp,coach,false,1
+60,Male,intermediate,4,ollie,2,mini ramp,coach,false,9
+15,Male,advanced,14,hardflip,10,freestyle,coach,false,8
+50,Polygender,intermediate,18,fakie bigspin,1,street,self-taught,true,9
+41,Female,beginner,15,hardflip,9,freestyle,online tutorials,false,5
+60,Female,beginner,17,switch frontside 360,1,vert,self-taught,true,6
+44,Female,beginner,11,nollie tre flip,3,vert,self-taught,false,4
+35,Male,advanced,11,kickflip,5,mini ramp,coach,true,2
+38,Polygender,beginner,19,heelflip,9,vert,self-taught,true,1
+46,Male,beginner,15,nollie tre flip,4,vert,self-taught,false,7
+33,Male,beginner,2,heelflip,1,freestyle,coach,false,2
+57,Female,intermediate,1,pop shove-it,4,freestyle,coach,false,7
+37,Female,advanced,2,backside 180,4,vert,self-taught,true,7
+44,Female,intermediate,12,switch frontside 360,10,vert,online tutorials,true,1
+11,Female,advanced,12,frontside boardslide,5,vert,online tutorials,false,4
+35,Female,beginner,1,heelflip,5,street,self-taught,false,7
+20,Female,intermediate,10,backside 180,5,street,coach,true,7
+22,Male,advanced,12,fakie bigspin,9,mini ramp,online tutorials,true,3
+51,Female,beginner,1,heelflip,3,freestyle,self-taught,false,1
+37,Female,beginner,5,fakie bigspin,5,park,coach,false,5
+21,Male,beginner,11,pop shove-it,9,freestyle,self-taught,true,1
+11,Female,beginner,6,ollie,8,park,self-taught,false,7
+15,Male,intermediate,3,switch frontside 360,10,vert,coach,false,3
+14,Female,beginner,13,fakie bigspin,7,street,self-taught,true,4
+15,Male,advanced,2,hardflip,6,freestyle,online tutorials,true,2
+54,Female,intermediate,20,pop shove-it,3,park,coach,false,5
+45,Male,beginner,13,kickflip,6,park,coach,false,4
+35,Genderqueer,intermediate,8,switch frontside 360,2,street,coach,false,4
+26,Female,advanced,5,backside 180,4,park,coach,true,1
+54,Female,advanced,1,ollie,3,vert,online tutorials,false,7
+58,Female,advanced,19,ollie,2,freestyle,coach,true,4
+26,Female,intermediate,16,hardflip,4,park,coach,false,3
+47,Male,intermediate,8,kickflip,9,freestyle,self-taught,false,3
+10,Male,beginner,18,hardflip,9,park,online tutorials,false,3
+45,Male,intermediate,2,frontside boardslide,4,park,coach,true,9
+25,Female,intermediate,17,ollie,5,street,online tutorials,true,3
+35,Female,intermediate,18,frontside boardslide,9,freestyle,online tutorials,false,8
+31,Male,intermediate,17,backside 180,8,vert,coach,false,9
+43,Female,advanced,15,ollie,7,street,coach,true,4
+47,Female,intermediate,7,pop shove-it,2,mini ramp,coach,true,4
+47,Male,intermediate,2,backside 180,6,street,online tutorials,true,3
+56,Male,intermediate,19,fakie bigspin,3,street,online tutorials,true,4
+29,Male,beginner,5,backside 180,1,mini ramp,self-taught,false,1
+21,Female,advanced,12,fakie bigspin,2,street,self-taught,true,2
+52,Female,beginner,1,pop shove-it,8,mini ramp,self-taught,false,7
+18,Female,intermediate,4,fakie bigspin,1,mini ramp,self-taught,true,6
+54,Male,beginner,15,switch frontside 360,1,vert,coach,false,10
+53,Female,advanced,17,switch frontside 360,1,freestyle,self-taught,true,7
+33,Male,advanced,11,kickflip,8,street,online tutorials,true,3
+56,Female,intermediate,19,nollie tre flip,4,street,online tutorials,true,4
+22,Female,intermediate,10,frontside boardslide,3,mini ramp,online tutorials,false,2
+35,Male,advanced,20,kickflip,3,vert,self-taught,false,9
+50,Male,beginner,2,hardflip,4,vert,online tutorials,false,9
+23,Female,intermediate,9,switch frontside 360,4,street,online tutorials,true,1
+36,Female,advanced,5,hardflip,9,mini ramp,online tutorials,false,8
+47,Female,advanced,1,pop shove-it,10,freestyle,self-taught,false,9
+29,Male,advanced,6,frontside boardslide,10,mini ramp,online tutorials,false,10
+17,Male,beginner,6,pop shove-it,5,street,self-taught,true,7
+23,Male,beginner,0,switch frontside 360,1,street,self-taught,true,10
+43,Male,advanced,14,fakie bigspin,1,vert,self-taught,true,8
+55,Male,beginner,12,backside 180,5,park,self-taught,true,4
+21,Male,intermediate,13,backside 180,5,freestyle,coach,true,2
+16,Genderqueer,advanced,14,heelflip,7,freestyle,self-taught,true,4
+13,Male,advanced,17,backside 180,6,mini ramp,online tutorials,true,2
+60,Female,advanced,10,fakie bigspin,9,freestyle,online tutorials,false,10
+36,Male,advanced,7,heelflip,6,vert,self-taught,true,10
+43,Genderfluid,beginner,16,switch frontside 360,9,freestyle,coach,false,7
+22,Genderqueer,beginner,7,switch frontside 360,7,mini ramp,coach,true,4
+34,Genderfluid,advanced,9,fakie bigspin,3,park,coach,false,4
+45,Agender,intermediate,5,ollie,4,park,online tutorials,true,1
+47,Male,advanced,3,backside 180,4,freestyle,online tutorials,true,4
+19,Male,intermediate,16,fakie bigspin,1,park,online tutorials,false,1
+51,Male,advanced,3,hardflip,4,freestyle,online tutorials,false,10
+59,Male,intermediate,16,frontside boardslide,6,freestyle,online tutorials,true,8
+43,Female,beginner,6,ollie,4,street,self-taught,false,7
+40,Female,advanced,4,pop shove-it,5,vert,online tutorials,false,1
+12,Male,advanced,11,frontside boardslide,9,street,self-taught,false,10
+40,Female,beginner,20,backside 180,4,park,online tutorials,false,3
+44,Agender,advanced,16,heelflip,4,freestyle,online tutorials,false,5
+23,Female,beginner,14,ollie,7,street,self-taught,false,4
+27,Female,intermediate,0,nollie tre flip,3,street,coach,true,10
+17,Male,intermediate,1,hardflip,4,park,coach,false,9
+22,Female,advanced,9,nollie tre flip,5,vert,online tutorials,true,1
+16,Female,intermediate,18,kickflip,1,mini ramp,online tutorials,true,5
+57,Female,intermediate,11,switch frontside 360,10,street,self-taught,false,10
+24,Male,intermediate,4,pop shove-it,6,street,coach,true,2
+60,Female,advanced,15,backside 180,3,vert,online tutorials,true,4
+19,Male,intermediate,0,hardflip,3,mini ramp,self-taught,true,5
+59,Male,intermediate,2,nollie tre flip,2,street,self-taught,true,1
+28,Male,beginner,10,backside 180,10,vert,self-taught,true,5
+16,Male,beginner,18,hardflip,2,mini ramp,online tutorials,true,10
+44,Female,advanced,1,fakie bigspin,7,vert,online tutorials,true,3
+28,Female,intermediate,19,pop shove-it,8,street,self-taught,false,3
+24,Non-binary,advanced,17,hardflip,2,freestyle,coach,false,10
+42,Female,intermediate,12,backside 180,2,mini ramp,online tutorials,true,2
+39,Male,beginner,10,frontside boardslide,1,park,coach,false,8
+56,Female,beginner,16,pop shove-it,7,freestyle,self-taught,true,2
+22,Male,beginner,2,switch frontside 360,3,vert,coach,false,5
+45,Male,beginner,4,hardflip,6,vert,online tutorials,true,1
+45,Male,intermediate,3,kickflip,8,street,online tutorials,true,1
+10,Male,beginner,13,hardflip,8,park,online tutorials,true,8
+55,Male,advanced,14,ollie,8,park,self-taught,false,5
+46,Male,beginner,0,backside 180,9,freestyle,online tutorials,true,3
+13,Female,beginner,15,frontside boardslide,9,vert,online tutorials,true,4
+17,Male,advanced,3,switch frontside 360,8,park,self-taught,false,2
+54,Male,intermediate,15,switch frontside 360,5,park,coach,true,2
+11,Male,advanced,9,backside 180,4,park,coach,false,5
+48,Female,intermediate,12,ollie,10,park,online tutorials,true,2
+38,Female,advanced,17,fakie bigspin,6,freestyle,online tutorials,true,8
+38,Male,beginner,9,switch frontside 360,6,vert,online tutorials,false,3
+48,Female,advanced,5,kickflip,2,freestyle,online tutorials,false,9
+14,Female,beginner,6,heelflip,10,mini ramp,self-taught,false,10
+49,Male,advanced,19,fakie bigspin,1,vert,coach,false,5
+60,Female,beginner,18,heelflip,8,street,self-taught,false,2
+58,Male,beginner,19,switch frontside 360,10,mini ramp,online tutorials,false,6
+13,Female,intermediate,15,fakie bigspin,8,vert,self-taught,false,3
+40,Female,advanced,17,heelflip,1,street,self-taught,true,2
+39,Male,advanced,5,switch frontside 360,1,vert,coach,true,1
+35,Female,advanced,10,nollie tre flip,10,mini ramp,online tutorials,true,2
+58,Male,intermediate,0,fakie bigspin,7,park,self-taught,true,10
+24,Male,advanced,5,frontside boardslide,6,park,coach,true,1
+19,Female,advanced,8,kickflip,5,freestyle,self-taught,true,3
+11,Male,advanced,2,backside 180,3,mini ramp,online tutorials,false,7
+59,Male,intermediate,8,pop shove-it,3,vert,self-taught,false,8
+20,Female,intermediate,19,kickflip,4,street,coach,false,3
+40,Male,intermediate,6,hardflip,5,park,coach,false,3
+25,Female,beginner,12,switch frontside 360,10,street,online tutorials,false,4
+40,Genderfluid,advanced,13,frontside boardslide,9,vert,online tutorials,true,4
+20,Female,beginner,11,ollie,8,park,self-taught,false,4
+49,Female,advanced,10,pop shove-it,6,park,online tutorials,false,1
+48,Male,advanced,14,backside 180,9,vert,online tutorials,false,6
+26,Female,advanced,9,fakie bigspin,6,park,coach,true,10
+37,Non-binary,beginner,12,pop shove-it,3,mini ramp,online tutorials,true,2
+45,Male,intermediate,2,pop shove-it,5,mini ramp,self-taught,true,5
+18,Female,advanced,6,frontside boardslide,5,street,coach,false,6
+51,Male,advanced,1,kickflip,5,park,coach,false,9
+42,Male,intermediate,16,ollie,1,freestyle,coach,true,10
+53,Genderfluid,advanced,18,switch frontside 360,1,street,online tutorials,true,8
+43,Bigender,beginner,14,pop shove-it,10,street,coach,false,1
+30,Female,advanced,20,ollie,8,mini ramp,self-taught,false,2
+35,Male,advanced,3,ollie,8,park,self-taught,true,9
+60,Male,advanced,14,hardflip,7,vert,online tutorials,true,8
+15,Polygender,intermediate,20,ollie,8,park,coach,false,9
+50,Male,intermediate,8,backside 180,1,park,self-taught,true,10
+11,Male,advanced,19,hardflip,3,vert,coach,true,2
+31,Female,beginner,5,nollie tre flip,7,vert,self-taught,false,2
+29,Male,advanced,13,pop shove-it,4,mini ramp,online tutorials,true,9
+33,Male,intermediate,6,nollie tre flip,10,park,online tutorials,false,3
+29,Male,advanced,4,pop shove-it,6,freestyle,coach,true,9
+37,Male,advanced,13,frontside boardslide,8,vert,self-taught,false,8
+58,Male,intermediate,5,kickflip,1,street,online tutorials,true,5
+22,Female,advanced,5,backside 180,4,vert,coach,true,10
+33,Female,advanced,13,backside 180,9,freestyle,self-taught,true,7
+21,Female,beginner,14,ollie,3,street,online tutorials,false,4
+59,Female,intermediate,13,heelflip,9,park,online tutorials,false,8
+53,Male,advanced,9,ollie,8,street,coach,true,1
+52,Male,intermediate,5,ollie,1,mini ramp,online tutorials,true,7
+17,Male,advanced,2,pop shove-it,6,freestyle,coach,true,7
+50,Female,advanced,17,nollie tre flip,1,street,coach,true,6
+21,Female,intermediate,1,hardflip,9,freestyle,coach,true,10
+57,Female,intermediate,15,heelflip,8,mini ramp,online tutorials,false,2
+48,Male,advanced,20,backside 180,5,mini ramp,online tutorials,true,1
+11,Male,advanced,14,frontside boardslide,5,freestyle,online tutorials,true,10
+43,Female,intermediate,8,switch frontside 360,7,vert,online tutorials,false,10
+31,Male,advanced,9,kickflip,6,mini ramp,coach,true,6
+54,Female,advanced,19,ollie,2,street,online tutorials,false,10
+15,Male,intermediate,2,frontside boardslide,7,vert,coach,true,4
+16,Female,advanced,10,backside 180,8,freestyle,coach,false,4
+23,Female,intermediate,12,heelflip,5,mini ramp,online tutorials,true,10
+45,Female,beginner,0,kickflip,8,park,online tutorials,true,5
+60,Male,beginner,17,switch frontside 360,8,park,coach,true,10
+53,Male,advanced,14,kickflip,5,park,online tutorials,false,6
+39,Male,intermediate,4,nollie tre flip,10,freestyle,coach,false,5
+32,Male,advanced,17,hardflip,10,street,coach,true,6
+47,Male,advanced,14,ollie,8,vert,coach,false,2
+43,Male,beginner,16,frontside boardslide,9,park,self-taught,false,6
+19,Female,intermediate,15,backside 180,9,street,coach,true,4
+39,Female,advanced,16,backside 180,10,park,online tutorials,true,2
+59,Female,beginner,17,heelflip,8,mini ramp,self-taught,false,3
+15,Female,beginner,2,frontside boardslide,5,park,coach,true,4
+37,Female,beginner,0,frontside boardslide,7,park,self-taught,false,5
+50,Male,advanced,3,hardflip,2,freestyle,coach,false,9
+44,Male,intermediate,18,ollie,5,street,coach,true,1
+57,Male,beginner,20,switch frontside 360,10,freestyle,coach,false,8
+59,Genderfluid,advanced,18,ollie,4,street,self-taught,true,4
+57,Female,intermediate,8,frontside boardslide,9,mini ramp,self-taught,true,4
+38,Male,advanced,20,ollie,8,freestyle,coach,true,4
+48,Female,beginner,17,nollie tre flip,4,freestyle,online tutorials,true,5
+26,Female,beginner,1,backside 180,10,freestyle,coach,true,5
+55,Male,beginner,2,pop shove-it,2,freestyle,online tutorials,true,6
+37,Bigender,beginner,13,fakie bigspin,10,park,self-taught,true,2
+34,Male,advanced,4,heelflip,7,park,online tutorials,true,8
+41,Male,beginner,13,fakie bigspin,4,park,coach,false,10
+20,Female,advanced,14,kickflip,2,park,online tutorials,false,7
+52,Non-binary,advanced,3,switch frontside 360,9,street,self-taught,true,9
+25,Male,intermediate,3,hardflip,5,street,coach,false,10
+41,Male,advanced,11,ollie,2,park,online tutorials,false,6
+10,Female,intermediate,16,nollie tre flip,4,freestyle,self-taught,false,1
+56,Male,beginner,9,kickflip,1,mini ramp,online tutorials,true,5
+11,Male,intermediate,17,backside 180,6,park,online tutorials,true,6
+16,Male,beginner,6,hardflip,7,street,coach,true,2
+57,Male,beginner,7,frontside boardslide,6,park,online tutorials,false,9
+28,Male,beginner,14,kickflip,4,mini ramp,online tutorials,false,10
+35,Male,intermediate,12,fakie bigspin,5,park,online tutorials,false,5
+48,Female,beginner,1,switch frontside 360,5,mini ramp,self-taught,true,3
+53,Male,intermediate,16,fakie bigspin,6,freestyle,coach,false,4
+55,Female,advanced,10,nollie tre flip,3,street,self-taught,false,1
+51,Male,beginner,14,switch frontside 360,6,mini ramp,coach,true,1
+31,Male,intermediate,19,hardflip,3,mini ramp,online tutorials,true,10
+60,Male,intermediate,13,nollie tre flip,10,park,self-taught,false,2
+52,Female,beginner,18,kickflip,1,mini ramp,coach,false,5
+30,Male,intermediate,18,switch frontside 360,8,park,online tutorials,true,7
+12,Male,advanced,17,ollie,8,mini ramp,coach,false,3
+34,Male,intermediate,6,heelflip,7,mini ramp,online tutorials,true,6
+34,Female,intermediate,16,switch frontside 360,7,freestyle,coach,false,8
+37,Male,intermediate,6,pop shove-it,3,mini ramp,online tutorials,false,5
+31,Female,beginner,19,backside 180,8,freestyle,online tutorials,true,9
+21,Male,beginner,13,heelflip,6,park,coach,true,1
+30,Female,beginner,8,frontside boardslide,8,street,self-taught,false,2
+34,Male,intermediate,4,frontside boardslide,5,park,online tutorials,true,9
+53,Male,intermediate,12,fakie bigspin,1,street,online tutorials,true,3
+37,Male,intermediate,1,pop shove-it,9,street,self-taught,false,7
+26,Male,intermediate,15,heelflip,3,vert,online tutorials,true,4
+46,Male,intermediate,19,heelflip,8,mini ramp,online tutorials,true,5
+19,Bigender,advanced,5,backside 180,2,street,coach,true,1
+21,Male,intermediate,8,pop shove-it,5,vert,coach,true,10
+46,Female,beginner,7,nollie tre flip,9,park,self-taught,true,5
+50,Female,intermediate,19,fakie bigspin,4,mini ramp,coach,false,8
+35,Female,intermediate,2,backside 180,1,park,self-taught,false,3
+33,Male,advanced,20,frontside boardslide,5,vert,self-taught,false,8
+48,Male,advanced,12,fakie bigspin,8,vert,coach,true,9
+16,Male,beginner,9,hardflip,8,street,self-taught,false,2
+43,Male,advanced,11,pop shove-it,2,street,online tutorials,false,3
+25,Female,intermediate,8,ollie,10,vert,self-taught,true,4
+36,Male,beginner,7,backside 180,7,freestyle,coach,false,9
+58,Female,intermediate,8,backside 180,2,street,coach,false,5
+14,Male,intermediate,20,heelflip,3,vert,coach,true,8
+47,Agender,intermediate,18,backside 180,10,mini ramp,coach,true,3
+13,Female,beginner,10,nollie tre flip,9,park,online tutorials,true,7
+21,Bigender,beginner,10,switch frontside 360,5,mini ramp,coach,false,10
+14,Male,advanced,0,heelflip,2,freestyle,self-taught,false,9
+17,Male,intermediate,8,ollie,3,vert,online tutorials,false,9
+20,Male,beginner,18,pop shove-it,8,freestyle,self-taught,true,1
+19,Female,beginner,6,heelflip,2,mini ramp,self-taught,true,10
+16,Male,intermediate,0,nollie tre flip,3,mini ramp,online tutorials,false,3
+32,Male,beginner,3,ollie,8,vert,online tutorials,true,10
+48,Female,advanced,8,frontside boardslide,2,mini ramp,online tutorials,false,1
+48,Male,beginner,5,kickflip,2,freestyle,coach,true,7
+56,Female,beginner,4,pop shove-it,1,park,coach,true,9
+36,Non-binary,advanced,0,ollie,10,park,online tutorials,true,5
+34,Female,intermediate,14,pop shove-it,8,park,self-taught,true,5
+16,Female,advanced,0,kickflip,2,mini ramp,online tutorials,false,3
+39,Male,beginner,1,heelflip,8,vert,coach,false,1
+36,Male,intermediate,4,kickflip,6,freestyle,self-taught,true,7
+52,Female,advanced,6,fakie bigspin,3,freestyle,self-taught,true,5
+12,Male,advanced,2,pop shove-it,2,freestyle,online tutorials,false,5
+23,Male,beginner,12,ollie,5,mini ramp,coach,false,3
+16,Female,beginner,0,backside 180,4,freestyle,online tutorials,true,5
+34,Female,advanced,4,switch frontside 360,9,mini ramp,coach,false,10
+48,Male,intermediate,20,pop shove-it,1,freestyle,self-taught,false,3
+15,Female,intermediate,15,backside 180,3,street,online tutorials,true,5
+37,Male,advanced,3,pop shove-it,9,vert,coach,false,9
+50,Female,intermediate,13,fakie bigspin,3,vert,coach,false,6
+37,Male,advanced,20,pop shove-it,3,vert,online tutorials,false,9
+12,Female,advanced,3,ollie,2,vert,self-taught,true,4
+30,Female,advanced,3,frontside boardslide,6,park,online tutorials,false,7
+26,Female,advanced,2,kickflip,4,park,self-taught,false,2
+54,Male,beginner,0,heelflip,7,street,online tutorials,true,3
+35,Male,advanced,4,ollie,3,park,coach,false,9
+29,Genderfluid,beginner,6,switch frontside 360,10,freestyle,coach,false,9
+31,Female,advanced,12,switch frontside 360,9,vert,coach,false,4
+56,Male,advanced,0,backside 180,1,park,online tutorials,false,2
+33,Male,beginner,6,pop shove-it,8,vert,self-taught,false,6
+29,Female,beginner,6,hardflip,9,freestyle,self-taught,false,10
+48,Male,intermediate,4,ollie,8,mini ramp,online tutorials,false,9
+49,Male,beginner,5,ollie,3,freestyle,coach,false,9
+23,Female,advanced,14,heelflip,4,mini ramp,online tutorials,true,6
+26,Male,beginner,13,fakie bigspin,7,street,coach,false,8
+30,Female,intermediate,19,fakie bigspin,9,freestyle,online tutorials,false,7
+51,Female,beginner,19,heelflip,8,freestyle,online tutorials,false,4
+21,Male,intermediate,9,hardflip,3,park,self-taught,false,1
+37,Female,advanced,15,frontside boardslide,1,vert,self-taught,false,4
+18,Female,intermediate,12,backside 180,9,street,online tutorials,false,4
+52,Male,intermediate,20,switch frontside 360,2,street,coach,false,5
+21,Female,beginner,19,frontside boardslide,10,street,coach,false,2
+50,Female,beginner,8,backside 180,10,vert,coach,true,7
+25,Male,advanced,12,ollie,10,mini ramp,self-taught,true,5
+35,Male,intermediate,13,nollie tre flip,7,street,self-taught,false,9
+30,Male,intermediate,6,nollie tre flip,9,freestyle,self-taught,false,7
+59,Female,beginner,13,frontside boardslide,1,park,self-taught,false,2
+51,Non-binary,intermediate,9,switch frontside 360,8,mini ramp,self-taught,true,2
+33,Polygender,advanced,17,hardflip,2,mini ramp,self-taught,false,5
+16,Female,intermediate,13,switch frontside 360,5,vert,self-taught,true,7
+17,Male,advanced,12,hardflip,6,vert,self-taught,false,1
+57,Male,advanced,19,fakie bigspin,10,vert,coach,false,9
+59,Non-binary,beginner,14,fakie bigspin,10,freestyle,coach,true,8
+38,Male,advanced,2,kickflip,7,mini ramp,self-taught,true,8
+10,Male,beginner,12,frontside boardslide,3,park,self-taught,true,8
+32,Non-binary,intermediate,8,backside 180,7,park,coach,false,7
+46,Female,intermediate,11,ollie,6,park,self-taught,false,8
+39,Male,advanced,5,heelflip,7,park,coach,false,7
+36,Male,beginner,19,hardflip,10,street,self-taught,false,3
+32,Male,beginner,3,kickflip,3,mini ramp,online tutorials,false,10
+45,Male,beginner,17,frontside boardslide,10,mini ramp,online tutorials,true,4
+47,Male,intermediate,15,nollie tre flip,7,park,self-taught,false,2
+19,Male,intermediate,16,backside 180,5,street,self-taught,true,3
+48,Male,intermediate,13,backside 180,4,street,self-taught,true,2
+52,Female,beginner,0,pop shove-it,9,park,online tutorials,false,3
+20,Polygender,intermediate,20,heelflip,5,mini ramp,self-taught,true,10
+13,Male,advanced,8,heelflip,10,mini ramp,online tutorials,true,3
+34,Male,advanced,12,pop shove-it,8,park,coach,true,10
+42,Female,advanced,4,backside 180,1,park,online tutorials,false,10
+23,Male,beginner,13,hardflip,7,street,self-taught,true,8
+29,Male,beginner,0,frontside boardslide,9,street,coach,false,1
+13,Female,beginner,15,kickflip,5,mini ramp,self-taught,true,1
+17,Male,advanced,9,kickflip,8,street,self-taught,false,9
+58,Male,intermediate,12,switch frontside 360,2,mini ramp,coach,false,2
+11,Female,beginner,15,nollie tre flip,8,park,online tutorials,true,5
+19,Male,intermediate,5,hardflip,5,vert,online tutorials,true,5
+53,Female,intermediate,6,nollie tre flip,5,street,online tutorials,true,10
+13,Male,intermediate,19,kickflip,9,vert,coach,true,1
+16,Male,intermediate,2,nollie tre flip,2,mini ramp,online tutorials,false,5
+46,Female,intermediate,3,hardflip,2,park,coach,false,8
+59,Female,beginner,11,hardflip,2,street,coach,false,6
+54,Male,intermediate,9,pop shove-it,1,vert,coach,false,5
+22,Male,advanced,13,heelflip,6,mini ramp,online tutorials,true,9
+20,Female,advanced,17,switch frontside 360,4,mini ramp,coach,true,5
+40,Male,intermediate,13,pop shove-it,7,street,online tutorials,false,8
+15,Female,beginner,15,hardflip,7,mini ramp,self-taught,true,3
+39,Male,advanced,9,frontside boardslide,8,park,online tutorials,true,2
+52,Female,intermediate,3,frontside boardslide,5,street,coach,false,8
+26,Male,intermediate,3,backside 180,3,park,coach,false,9
+13,Male,intermediate,16,hardflip,4,vert,coach,true,7
+18,Male,beginner,12,ollie,8,freestyle,self-taught,true,3
+60,Female,beginner,20,hardflip,3,mini ramp,self-taught,true,4
+13,Male,beginner,10,backside 180,9,vert,self-taught,true,3
+57,Female,advanced,17,switch frontside 360,3,park,online tutorials,false,4
+34,Male,beginner,7,fakie bigspin,3,park,online tutorials,false,2
+29,Male,beginner,1,kickflip,6,freestyle,online tutorials,false,2
+60,Genderfluid,advanced,10,pop shove-it,9,street,coach,true,10
+18,Male,intermediate,20,hardflip,5,freestyle,coach,true,9
+59,Male,advanced,20,fakie bigspin,1,park,online tutorials,true,7
+40,Male,beginner,4,backside 180,3,freestyle,coach,true,3
+59,Male,advanced,5,frontside boardslide,5,vert,self-taught,true,9
+20,Female,intermediate,14,pop shove-it,3,mini ramp,self-taught,true,2
+35,Female,beginner,11,heelflip,6,street,self-taught,false,1
+32,Female,intermediate,4,pop shove-it,2,street,online tutorials,false,7
+21,Female,intermediate,7,kickflip,1,freestyle,coach,true,9
+60,Female,advanced,1,fakie bigspin,1,freestyle,online tutorials,true,8
+19,Female,advanced,14,switch frontside 360,3,freestyle,coach,true,6
+24,Female,advanced,4,pop shove-it,6,vert,coach,false,8
+16,Female,intermediate,19,pop shove-it,5,vert,online tutorials,true,4
+54,Male,beginner,3,fakie bigspin,2,freestyle,coach,false,10
+17,Female,beginner,12,hardflip,10,vert,coach,true,9
+45,Male,advanced,9,frontside boardslide,6,mini ramp,coach,false,9
+14,Male,advanced,2,nollie tre flip,1,freestyle,online tutorials,false,3
+18,Bigender,advanced,11,ollie,4,vert,coach,true,3
+16,Genderfluid,beginner,10,pop shove-it,5,vert,online tutorials,false,3
+37,Female,beginner,15,fakie bigspin,7,mini ramp,self-taught,true,2
+12,Female,advanced,11,switch frontside 360,8,street,online tutorials,false,4
+20,Female,advanced,12,kickflip,6,park,self-taught,true,9
+28,Female,beginner,12,nollie tre flip,9,vert,self-taught,false,9
+40,Female,beginner,3,switch frontside 360,7,park,online tutorials,false,3
+36,Female,beginner,17,heelflip,7,street,coach,false,4
+37,Male,intermediate,5,heelflip,5,vert,self-taught,false,4
+20,Male,intermediate,6,frontside boardslide,8,freestyle,online tutorials,false,10
+53,Female,intermediate,20,fakie bigspin,9,mini ramp,online tutorials,false,3
+37,Male,advanced,16,backside 180,9,vert,online tutorials,true,4
+25,Male,beginner,10,frontside boardslide,6,vert,online tutorials,true,8
