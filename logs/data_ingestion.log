@@ -1,0 +1,3 @@
+2025-08-06 18:21:11,673 - __main__ - INFO - Data Ingestion has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
+2025-08-06 18:21:11,673 - __main__ - INFO - Attempting to load data from data\raw\SkateData.csv
+2025-08-06 18:21:11,721 - __main__ - INFO - Data loaded successfully. Shape:(1000, 10)
