@@ -1,3 +1,18 @@
 2025-08-06 18:21:11,673 - __main__ - INFO - Data Ingestion has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
 2025-08-06 18:21:11,673 - __main__ - INFO - Attempting to load data from data\raw\SkateData.csv
 2025-08-06 18:21:11,721 - __main__ - INFO - Data loaded successfully. Shape:(1000, 10)
+2025-08-07 20:49:00,521 - __main__ - INFO - Data Ingestion has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
+2025-08-07 20:49:00,522 - __main__ - INFO - Attempting to load data from data\raw\SkateData.csv
+2025-08-07 20:49:00,540 - __main__ - INFO - Data loaded successfully. Shape:(1000, 11)
+2025-08-07 21:38:06,504 - data_ingestion - INFO - Data Ingestion has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
+2025-08-07 21:38:06,505 - data_ingestion - INFO - Attempting to load data from data\raw\SkateData.csv
+2025-08-07 21:38:06,521 - data_ingestion - INFO - Data loaded successfully. Shape:(1000, 11)
+2025-08-07 21:38:06,521 - __main__ - INFO - Data Ingestion has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
+2025-08-07 21:38:33,699 - data_ingestion - INFO - Data Ingestion has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
+2025-08-07 21:38:33,699 - data_ingestion - INFO - Attempting to load data from data\raw\SkateData.csv
+2025-08-07 21:38:33,709 - data_ingestion - INFO - Data loaded successfully. Shape:(1000, 11)
+2025-08-07 21:38:33,709 - __main__ - INFO - Data Ingestion has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
+2025-08-07 21:38:33,709 - __main__ - INFO - Data processor has been initialized at C:\Users\percy\Desktop\Python Projects\Skateboarding Trick time\data\raw\SkateData.csv
+2025-08-07 21:38:33,710 - root - INFO - Attempting to load data
+2025-08-07 21:38:33,755 - root - INFO - Saving data
+2025-08-07 21:38:33,819 - root - INFO - Data has been saved in: data/processed

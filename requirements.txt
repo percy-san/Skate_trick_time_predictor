@@ -6,5 +6,7 @@ plotly
 scikit-learn
 scipy
 jupyter
+gradio
+joblib
 
 
