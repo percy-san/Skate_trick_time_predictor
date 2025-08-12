@@ -8,5 +8,6 @@ scipy
 jupyter
 gradio
 joblib
-
+xgboost
+catboost
 
