@@ -40,7 +40,8 @@ class ModelTrainer:
     def load_data(self):
         """ Loading the preprocessed data"""
         self.logger.info(f'Working in directory :{os.getcwd()}')
-        self.logger.info(f'Attempting to load X_train data from: {os.path.abspath(os.path.join(self.data_dir, 'X_train.csv'))}')
+        self.logger.info(
+            f'Attempting to load X_train data from: {os.path.abspath(os.path.join(self.data_dir, 'X_train.csv'))}')
         try:
             self.X_train = pd.read_csv(os.path.join(self.data_dir, 'X_train.csv'))
             self.X_test = pd.read_csv(os.path.join(self.data_dir, 'X_test.csv'))
@@ -70,15 +71,15 @@ class ModelTrainer:
                 self.best_model = model
                 self.best_model_name = name
 
-
         print("\nBest Model: ", self.best_model_name)
         print("Best R2: ", self.best_r2)
         self.logger.info(f'Best Model is selected as: {self.best_model_name}, with R2 score of: {self.best_r2}')
 
         # Saving the best model
+
     def save_model(self):
         os.makedirs(self.model_dir, exist_ok=True)
-        model_path = os.path.join(self.model_dir, f"Best_model_{self.best_model_name.replace(' ', '_')}.joblib")
+        model_path = os.path.join(self.model_dir, f"Best_model_{self.best_model_name.replace(' ', '_')}.pkl")
         joblib.dump(self.best_model, model_path)
         print(f"Best model saved to {model_path}")
         self.logger.info(f'Best model saved to {model_path}')
@@ -89,10 +90,7 @@ class ModelTrainer:
         self.train_evaluate()
         self.save_model()
 
+
 if __name__ == '__main__':
     trainer = ModelTrainer()
-    trainer.load_data()
-    trainer.train_evaluate()
-
-
-
+    trainer.run()
